@@ -10,8 +10,20 @@ namespace app1._2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            
+            int number;
+            try
+            {
+                number = int.Parse(this.txtNumber.Text);
+            }
+            catch (FormatException)
+            {
+                return;
+            }
+            Properties.Settings.Default.number = number;
+            Properties.Settings.Default.Save();
+            var average = Logic.Calculate(number);
+            MessageBox.Show("Наибольшая цифра трехзначного числа: " + average.ToString());
+
         }
     }
     public class Logic
