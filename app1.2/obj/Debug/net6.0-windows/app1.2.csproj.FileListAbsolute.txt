@@ -1,0 +1,17 @@
+E:\apps\app1.2\app1.2\bin\Debug\net6.0-windows\app1.2.exe
+E:\apps\app1.2\app1.2\bin\Debug\net6.0-windows\app1.2.deps.json
+E:\apps\app1.2\app1.2\bin\Debug\net6.0-windows\app1.2.runtimeconfig.json
+E:\apps\app1.2\app1.2\bin\Debug\net6.0-windows\app1.2.dll
+E:\apps\app1.2\app1.2\bin\Debug\net6.0-windows\app1.2.pdb
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.csproj.AssemblyReference.cache
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1._2.Form1.resources
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.csproj.GenerateResource.cache
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.AssemblyInfoInputs.cache
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.AssemblyInfo.cs
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.csproj.CoreCompileInputs.cache
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.dll
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\refint\app1.2.dll
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.pdb
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\app1.2.genruntimeconfig.cache
+E:\apps\app1.2\app1.2\obj\Debug\net6.0-windows\ref\app1.2.dll
